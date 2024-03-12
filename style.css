@@ -1,0 +1,107 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 900px;
+  padding: 30px 50px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#table-1 {
+  border: 1px solid red;
+  margin: 30px auto;
+}
+
+#table-1 td {
+  border: 1px dotted blue;
+  padding: 10px;
+}
+#row-1 {
+  background-color: #053561;
+  color: white;
+}
+.block {
+  background: black;
+  color: white;
+}
+
+.time {
+  font-size: 8px;
+  font-style: italic;
+}
+
+.subject:hover {
+  background: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+  transition: font-size 0.5s, backrground;
+}
+.center {
+  text-align: center;
+}
+#table-2 {
+  margin: 20px auto;
+  border-radius: 15%;
+  background-color: #0c6c9d;
+  padding: 20px;
+}
+#table-2 td {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.text {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-underline-offset: 40px;
+  padding: 39px;
+}
+img {
+  width: 110px;
+  height: 110px;
+}
+
+.yes {
+  text-decoration: none;
+  border: ;
+}
+.table-3 {
+  background-color: rgb(161, 236, 236);
+
+  width: 900px;
+  height: 350px;
+  border: 3px solid black;
+}
+
+.table-3 td {
+  border: 2px solid;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
+.hotpink {
+  color: hotpink;
+}
+.orange {
+  color: orange;
+}
+.brown {
+  color: brown;
+}
+.light-brown {
+  color: blue;
+}
+.green {
+  color: green;
+}
